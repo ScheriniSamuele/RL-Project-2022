@@ -10,3 +10,7 @@ segua la specifica presente nel pdf.
 
 -   [**Francesco Palumbo**](https://github.com/palumbb)
 -   [**Samuele Scherini**](https://github.com/ScheriniSamuele)
+
+## Note
+
+Il progetto è stato valutato con un punteggio di 30/30 con Lode.
